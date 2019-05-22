@@ -1,0 +1,28 @@
+html, body{
+    margin: 0%;
+    background-color: #F5F7F6;
+    font-family: 'Libre Franklin', sans-serif;
+    color: #424242;
+}
+
+
+#weightFont{
+    font-weight: bold;
+    /* text-shadow: 4px 4px 4px rgba(177, 176, 176, 0.568) */
+}
+
+.section-headers{
+    font-weight: 900;
+}
+
+.section-titles{
+    font-weight: bold;
+}
+
+.section-size{
+    font-size: 22px;
+}
+
+.title-shadow{
+      text-shadow: 4px 4px 4px #0f0f0fc7
+}
