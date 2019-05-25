@@ -6,6 +6,13 @@ html, body{
 }
 
 
+#homeSection{
+    height: 751px !important;
+    background-color:#78909c ;
+    margin: 0% !important;
+    width: 100% !important;
+}
+
 #weightFont{
     font-weight: bold;
     /* text-shadow: 4px 4px 4px rgba(177, 176, 176, 0.568) */
@@ -19,10 +26,16 @@ html, body{
     font-weight: bold;
 }
 
-.section-size{
-    font-size: 22px;
-}
+
 
 .title-shadow{
       text-shadow: 4px 4px 4px #0f0f0fc7
 }
+
+h1{
+    margin: 0px !important;
+}
+
+/* .nav-section{
+    margin: 0% !important;
+} */

@@ -10,9 +10,20 @@ const loopOfText = document.getElementById("loopText");
 //     })
 // }
 
-listOfMethods.forEach(element => {
-    console.log(element);
-});
+
+count = 0
+const printMethods = () => {
+    //for(let count = 0; i < listOfMethods.length; i++) {
+        loopOfText.innerHTML = listOfMethods[count]
+        count ++
+        if(count > 4){
+            count = 0
+        }
+    //}
+}
+setInterval(() =>{
+    printMethods();
+},1600)
 
 
 
