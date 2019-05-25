@@ -6,12 +6,12 @@ html, body{
 }
 
 
-#homeSection{
+/* #homeSection{
     height: 751px !important;
     background-color:#78909c ;
     margin: 0% !important;
     width: 100% !important;
-}
+} */
 
 #weightFont{
     font-weight: bold;
