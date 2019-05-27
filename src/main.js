@@ -1,4 +1,4 @@
-const listOfMethods =['Agile', 'Human Centered Design', 'Design Thinking', 'Research', 'User Experience Design'];
+const listOfMethods =['Agile', 'Human Centered Design', 'Design Thinking', 'Research', 'User Experience Design', 'Growth Mindset'];
 const loopOfText = document.getElementById("loopText");
 
 // const drawText = (arrayListOfMethods) => {
@@ -16,7 +16,7 @@ const printMethods = () => {
     //for(let count = 0; i < listOfMethods.length; i++) {
         loopOfText.innerHTML = listOfMethods[count]
         count ++
-        if(count > 4){
+        if(count > 5){
             count = 0
         }
     //}
