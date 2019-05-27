@@ -1,0 +1,59 @@
+html, body{
+    margin: 0%;
+    background-color: #F5F7F6;
+    font-family: 'Libre Franklin', sans-serif;
+    color: #424242;
+}
+
+
+#homeSection{
+    margin-top: -2% !important;
+    height: 751px !important;
+    background-image: url(/Portafolio/img/parallax.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    
+}
+
+.space-bottom{
+    position: relative !important;
+top: 55% !important;
+/* right: -33% !important; */
+}
+
+
+#weightFont{
+    font-weight: bold;
+    /* text-shadow: 4px 4px 4px rgba(177, 176, 176, 0.568) */
+}
+
+.section-headers{
+    font-weight: 900;
+}
+
+.section-titles{
+    font-weight: bold;
+}
+
+
+
+.title-shadow{
+      text-shadow: 4px 4px 4px #0f0f0fb7
+}
+
+h1{
+    margin: 0px !important;
+}
+
+/* @media screen and (max-width: 768px) {
+}
+@media screen and (max-width: 480px) {
+
+
+    #homeSection {
+        margin-top: -2% !important;
+    background-image: url("/Portafolio/img/parallax.png");
+    
+    } */
