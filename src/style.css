@@ -7,7 +7,7 @@ html, body{
 
 
 #homeSection{
-    margin-top: -2% !important;
+    margin-top: -6% !important;
     height: 751px !important;
     background-image: url(/Portafolio/img/parallax.png);
     background-size: cover;
@@ -19,7 +19,7 @@ html, body{
 
 .space-bottom{
     position: relative !important;
-top: 55% !important;
+top: 60% !important;
 /* right: -33% !important; */
 }
 
