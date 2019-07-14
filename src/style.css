@@ -17,6 +17,10 @@ html, body{
     
 }
 
+.borderes{
+    border: rgb(0, 0, 0) 1px solid;
+}
+
 .space-bottom{
     position: relative !important;
 top: 60% !important;
