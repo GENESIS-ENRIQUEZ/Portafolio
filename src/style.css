@@ -21,11 +21,17 @@ html, body{
     border: rgb(0, 0, 0) 1px solid;
 }
 
+/* .space-bottom{
+    position: relative !important;
+top: 45% !important;
+right: -42% !important;
+} */
+
 .space-bottom{
     position: relative !important;
 top: 60% !important;
-/* right: -33% !important; */
 }
+
 
 
 #weightFont{
